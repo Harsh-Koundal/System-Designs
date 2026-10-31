@@ -1,4 +1,4 @@
-
+<img width="6853" height="4636" alt="notification-system-design" src="https://github.com/user-attachments/assets/a6cf0735-abca-4e21-a10e-4a72f71048ce" />
 
 # Notification System Design
 
