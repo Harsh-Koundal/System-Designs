@@ -1,7 +1,7 @@
 # Bloom Filter System Design
 <img width="2188" height="1395" alt="BloomFilter_systemDesign" src="https://github.com/user-attachments/assets/8f72938c-d11e-47ed-a81f-c1447614b8c4" />
 
-
+ 
 ## 1. Overview
 
 This document describes a username-existence checking service built with
